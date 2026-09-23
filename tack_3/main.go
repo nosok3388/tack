@@ -8,7 +8,7 @@ func main() {
 			var n3 int
 				var n4 int
 
-	fmt.Println("рамадины топ?")
+	fmt.Println("рамlllадины топ?")
 	fmt.Println("Введите вариант ответа 1.да/2.нет")
 	fmt.Scanf("%d\n",&n1)
 fmt.Println("я крутой")
