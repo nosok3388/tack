@@ -5,7 +5,7 @@ import "fmt"
 type group struct {
 	id   int
 	name string
-	age  int
+	age  int 
 	ms   []ms
 }
 type ms struct {
